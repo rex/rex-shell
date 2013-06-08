@@ -1,0 +1,37 @@
+{
+  "author": "Pierce Moore <me@prex.io>",
+  "name": "rex-shell",
+  "description": "A lightweight library for Node.js that will help developers display nice, pretty, colored messages in a console window.",
+  "homepage": "https://github.com/rex/rex-shell",
+  "version": "0.0.1",
+  "main": "lib/rex-shell.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rex/rex-shell.git"
+  },
+  "keywords": [
+    "cli",
+    "log",
+    "console",
+    "output",
+    "format",
+    "color",
+    "rex"
+  ],
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "directories": {
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "dependencies": {
+    "underscore": "*"
+  },
+  "config": {},
+  "bugs": {
+    "url": "https://github.com/rex/rex-shell/issues"
+  },
+  "scripts": {
+    "test": "node ./test/rex-shell.test.js"
+  }
+}
