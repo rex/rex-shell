@@ -3,7 +3,7 @@
   "name": "rex-shell",
   "description": "A lightweight library for Node.js that will help developers display nice, pretty, colored messages in a console window.",
   "homepage": "https://github.com/rex/rex-shell",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/rex-shell.js",
   "repository": {
     "type": "git",
